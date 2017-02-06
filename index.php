@@ -48,10 +48,10 @@
               My name is Jon Janelle and I am from Medford, MA. I am relatively
               new to the world of web development, but am very excited to learn
               more! Over the past several semesters at Harvard Extension School,
-	      I have taken several introductory computer science courses using Java.
+	            I have taken several introductory computer science courses using Java.
               On the side, I learned the basics of HTML, CSS, and Javascript using free
               MOOCs and books, although I'm sure I have picked up a number of bad habits
-	      along the way.
+	            along the way.
             </p>
             <p>
               I currently work as a high school mathematics teacher in Lawrence, MA. In
@@ -61,7 +61,7 @@
             </p>
             <p>
               Outside of work-based things, I enjoy spending time with my wife, Hayley, drinking far
-	      too much coffee, gardening, pretending to play musical instruments, and my cat named Fig.
+	            too much coffee, gardening, pretending to play musical instruments, and my cat named Fig.
             </p>
           </blockquote>
         </div>
