@@ -1,5 +1,5 @@
 # DWA-A1
-Assignment 1 for CSCI E-15: Dynamic Web Applications
+# Assignment 1 for CSCI E-15: Dynamic Web Applications
 Spring 2017
 
 This project is an "about me" page intended to demonstrate skill with
