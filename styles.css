@@ -1,0 +1,66 @@
+body {
+  background-image: url('escheresque_ste.png');
+  background-repeat: repeat;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 90%;
+  max-height: 100%;
+  padding: 0 5% 5% 5%;
+  border: 2px solid #CCC;
+  background-color: #FCFCFC;
+
+}
+
+#title {
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 0;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  color: #101080;
+}
+
+#quote {
+  font-weight: bold;
+}
+#author {
+  font-style: italic;
+}
+
+.centerpic {
+  margin: auto;
+  width: 50%
+}
+
+.centerdiv {
+  margin: 0 auto;
+  margin-top: 1em;
+}
+
+.shadowbox {
+  -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.30);
+  -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.30);
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.30);
+}
+
+.card {
+  margin: 0 auto;
+  width: 90%;
+  padding: 1em;
+  border-radius: 5px;
+
+}
+
+.card-header {
+  color: #801010;
+}
+.card-blockquote {
+  border-color: #A0A0FF;
+  padding-top: 0;
+}
+
+.card-block{
+  margin: 0 auto;
+}
