@@ -35,7 +35,7 @@
           <h1>Jon Janelle</h1>
         </div>
       </div>
-      <div class="centerpic">
+      <div class="center">
         <img src="janelle.jpg" class="img-thumbnail" alt="Picture of me at my wedding">
       </div>
 

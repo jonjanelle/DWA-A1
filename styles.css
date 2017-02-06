@@ -7,7 +7,7 @@ body {
   margin: 0 auto;
   max-width: 90%;
   max-height: 100%;
-  padding: 0 5% 5% 5%;
+  padding: 0 2em 1em 2em;
   border: 2px solid #CCC;
   background-color: #FCFCFC;
 
@@ -29,14 +29,13 @@ body {
   font-style: italic;
 }
 
-.centerpic {
-  margin: auto;
-  width: 50%
+.center {
+  display:flex;
+
 }
 
-.centerdiv {
+.center img{
   margin: 0 auto;
-  margin-top: 1em;
 }
 
 .shadowbox {
@@ -47,20 +46,16 @@ body {
 
 .card {
   margin: 0 auto;
-  width: 90%;
-  padding: 1em;
-  border-radius: 5px;
-
 }
 
 .card-header {
   color: #801010;
 }
-.card-blockquote {
-  border-color: #A0A0FF;
-  padding-top: 0;
-}
 
-.card-block{
-  margin: 0 auto;
+.card-blockquote {
+  border-right: 5px double;
+  border-left-style: double;
+  border-color: #A0A0FF;
+  border-radius: 3px;
+  padding-top: 0;
 }
