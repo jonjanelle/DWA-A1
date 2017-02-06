@@ -60,9 +60,8 @@
               introductory computer science courses at the high school level.
             </p>
             <p>
-              Outside of computer and work-based things, I enjoy spending time with my wife, Hayley,
-              drinking far too much coffee, gardening, pretending to play musical instruments, and
-              my cat named Fig.
+              Outside of work-based things, I enjoy spending time with my wife, Hayley, drinking far 
+	      too much coffee, gardening, pretending to play musical instruments, and my cat named Fig.
             </p>
           </blockquote>
         </div>
