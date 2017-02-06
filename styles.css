@@ -5,12 +5,11 @@ body {
 
 #container {
   margin: 0 auto;
-  max-width: 90%;
+  max-width: 94%;
   max-height: 100%;
-  padding: 0 2em 1em 2em;
+  padding: 0 1em 1em 1em;
   border: 2px solid #CCC;
   background-color: #FCFCFC;
-
 }
 
 #title {
@@ -29,13 +28,10 @@ body {
   font-style: italic;
 }
 
-.center {
-  display:flex;
-
-}
-
-.center img{
-  margin: 0 auto;
+img.centerpic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 .shadowbox {
