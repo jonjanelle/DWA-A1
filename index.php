@@ -65,7 +65,7 @@
         </div>
       </div>
 
-
+      <br />
       <div class="card">
         <h2 class="card-header">Random Quote</h2>
         <div class="card-block">

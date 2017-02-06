@@ -49,8 +49,8 @@ img.centerpic{
 }
 
 .card-blockquote {
-  border-right: 5px double;
   border-left-style: double;
+  margin-left: 1em;
   border-color: #A0A0FF;
   border-radius: 3px;
   padding-top: 0;
