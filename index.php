@@ -47,17 +47,17 @@
             <p>
               My name is Jon Janelle and I am from Medford, MA. I am relatively
               new to the world of web development, but am very excited to learn
-              more! Over the past several semesters at Harvard Extension I have
-              taken and enjoyed introductory computer science courses using Java. I
-              have learned the basics of HTML, CSS, and Javascript through free MOOCs
-              and books, although I'm sure I have picked up a number of bad habits along
-              the way.
+              more! Over the past several semesters at Harvard Extension School, 
+	      I have taken several introductory computer science courses using Java. 
+              On the side, I learned the basics of HTML, CSS, and Javascript using free 
+              MOOCs and books, although I'm sure I have picked up a number of bad habits 
+	      along the way.
             </p>
             <p>
               I currently work as a high school mathematics teacher in Lawrence, MA. In
               the near future, my school plans to expand its technology offerings. Part of
-              my goal in taking this course is to continue to develop my skills enough to teach
-              introductory computer science courses at the high school level.
+              my goal in taking this course is to develop my skills enough to a point that I
+              am able to teach introductory computer science courses at the high school level.
             </p>
             <p>
               Outside of work-based things, I enjoy spending time with my wife, Hayley, drinking far 
